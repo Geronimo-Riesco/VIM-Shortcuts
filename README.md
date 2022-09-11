@@ -1,7 +1,5 @@
 ## VIM-Shortcuts
 
-Hice un cambio en el readme
-
 #### TERMINAL
 
 ```
