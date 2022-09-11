@@ -2,6 +2,8 @@
 
 Primer cambio en el README
 
+Segundo cambio en el README
+
 #### TERMINAL
 
 ```
